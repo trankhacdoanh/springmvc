@@ -11,7 +11,7 @@
 		<springframework.version>4.3.13.RELEASE</springframework.version>
 		<jsp.api.version>2.3.1</jsp.api.version>
 		<springsecurity.version>3.2.8.RELEASE</springsecurity.version>
-		<mysql.version>8.0.13</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<jstl.version>1.2</jstl.version>
 		<hibernate.version>4.3.6.Final</hibernate.version>
 		<spring.data>1.11.5.RELEASE</spring.data>
